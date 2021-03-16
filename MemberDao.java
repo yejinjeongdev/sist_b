@@ -1,0 +1,5 @@
+class MemberDao{
+	public int insert(){
+		System.out.printout("등록하였습니다.");
+	}
+}
